@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ditu">
+        <file>ditu.png</file>
+    </qresource>
+</RCC>
